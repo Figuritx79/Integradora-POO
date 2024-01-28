@@ -1,4 +1,4 @@
-# Integradora
+# Integradora :canoe:
 
 Esto es un avance del proyecto integrador de la materia de programación orientada a objetos.
 

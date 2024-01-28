@@ -4,7 +4,7 @@ Esto es un avance del proyecto integrador de la materia de programación orienta
 
 ## Que hacer para que te funcione el proyecto correctamente
 
-Primero vamos a clonar el repositorio(esto aplica si tiene git).
+Primero vamos a clonar el repositorio(esto aplica si tiene git :octocat: ).
 
 ```bash
 git clone https://github.com/Figuritx79/Integradora-POO.git
